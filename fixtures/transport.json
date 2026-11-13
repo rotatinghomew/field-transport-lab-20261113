@@ -1,0 +1,4400 @@
+{
+  "columns": [
+    "tier",
+    "network",
+    "task"
+  ],
+  "source": [
+    {
+      "device_id": "l0",
+      "row_id": "l0",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l0",
+      "row_id": "l1",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l0",
+      "row_id": "l2",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l1",
+      "row_id": "l3",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l1",
+      "row_id": "l4",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l1",
+      "row_id": "l5",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l2",
+      "row_id": "l6",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l2",
+      "row_id": "l7",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l2",
+      "row_id": "l8",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l3",
+      "row_id": "l9",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l3",
+      "row_id": "l10",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l3",
+      "row_id": "l11",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l4",
+      "row_id": "l12",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l4",
+      "row_id": "l13",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l4",
+      "row_id": "l14",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l5",
+      "row_id": "l15",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l5",
+      "row_id": "l16",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l5",
+      "row_id": "l17",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l6",
+      "row_id": "l18",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l6",
+      "row_id": "l19",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l6",
+      "row_id": "l20",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l7",
+      "row_id": "l21",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l7",
+      "row_id": "l22",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l7",
+      "row_id": "l23",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l8",
+      "row_id": "l24",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l8",
+      "row_id": "l25",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l8",
+      "row_id": "l26",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l9",
+      "row_id": "l27",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l9",
+      "row_id": "l28",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l9",
+      "row_id": "l29",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l10",
+      "row_id": "l30",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l10",
+      "row_id": "l31",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l10",
+      "row_id": "l32",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l11",
+      "row_id": "l33",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l11",
+      "row_id": "l34",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l11",
+      "row_id": "l35",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l12",
+      "row_id": "l36",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l12",
+      "row_id": "l37",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l12",
+      "row_id": "l38",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l13",
+      "row_id": "l39",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l13",
+      "row_id": "l40",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l13",
+      "row_id": "l41",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l14",
+      "row_id": "l42",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l14",
+      "row_id": "l43",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l14",
+      "row_id": "l44",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l15",
+      "row_id": "l45",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l15",
+      "row_id": "l46",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l15",
+      "row_id": "l47",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l16",
+      "row_id": "l48",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l16",
+      "row_id": "l49",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l16",
+      "row_id": "l50",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l17",
+      "row_id": "l51",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l17",
+      "row_id": "l52",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l17",
+      "row_id": "l53",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l18",
+      "row_id": "l54",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l18",
+      "row_id": "l55",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l18",
+      "row_id": "l56",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l19",
+      "row_id": "l57",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l19",
+      "row_id": "l58",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l19",
+      "row_id": "l59",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l20",
+      "row_id": "l60",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l20",
+      "row_id": "l61",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l20",
+      "row_id": "l62",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l21",
+      "row_id": "l63",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l21",
+      "row_id": "l64",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l21",
+      "row_id": "l65",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l22",
+      "row_id": "l66",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l22",
+      "row_id": "l67",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l22",
+      "row_id": "l68",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l23",
+      "row_id": "l69",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l23",
+      "row_id": "l70",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l23",
+      "row_id": "l71",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l24",
+      "row_id": "l72",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l24",
+      "row_id": "l73",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l24",
+      "row_id": "l74",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l25",
+      "row_id": "l75",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l25",
+      "row_id": "l76",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l25",
+      "row_id": "l77",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l26",
+      "row_id": "l78",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l26",
+      "row_id": "l79",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l26",
+      "row_id": "l80",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l27",
+      "row_id": "l81",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l27",
+      "row_id": "l82",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l27",
+      "row_id": "l83",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l28",
+      "row_id": "l84",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l28",
+      "row_id": "l85",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l28",
+      "row_id": "l86",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l29",
+      "row_id": "l87",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l29",
+      "row_id": "l88",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l29",
+      "row_id": "l89",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l30",
+      "row_id": "l90",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l30",
+      "row_id": "l91",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l30",
+      "row_id": "l92",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l31",
+      "row_id": "l93",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l31",
+      "row_id": "l94",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l31",
+      "row_id": "l95",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l32",
+      "row_id": "l96",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l32",
+      "row_id": "l97",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l32",
+      "row_id": "l98",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l33",
+      "row_id": "l99",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l33",
+      "row_id": "l100",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l33",
+      "row_id": "l101",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l34",
+      "row_id": "l102",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l34",
+      "row_id": "l103",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l34",
+      "row_id": "l104",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l35",
+      "row_id": "l105",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l35",
+      "row_id": "l106",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l35",
+      "row_id": "l107",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l36",
+      "row_id": "l108",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l36",
+      "row_id": "l109",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l36",
+      "row_id": "l110",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l37",
+      "row_id": "l111",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l37",
+      "row_id": "l112",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l37",
+      "row_id": "l113",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l38",
+      "row_id": "l114",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l38",
+      "row_id": "l115",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l38",
+      "row_id": "l116",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l39",
+      "row_id": "l117",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l39",
+      "row_id": "l118",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l39",
+      "row_id": "l119",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l40",
+      "row_id": "l120",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l40",
+      "row_id": "l121",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l40",
+      "row_id": "l122",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l41",
+      "row_id": "l123",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l41",
+      "row_id": "l124",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l41",
+      "row_id": "l125",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l42",
+      "row_id": "l126",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l42",
+      "row_id": "l127",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l42",
+      "row_id": "l128",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l43",
+      "row_id": "l129",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l43",
+      "row_id": "l130",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l43",
+      "row_id": "l131",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l44",
+      "row_id": "l132",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l44",
+      "row_id": "l133",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l44",
+      "row_id": "l134",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l45",
+      "row_id": "l135",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l45",
+      "row_id": "l136",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l45",
+      "row_id": "l137",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l46",
+      "row_id": "l138",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l46",
+      "row_id": "l139",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l46",
+      "row_id": "l140",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l47",
+      "row_id": "l141",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l47",
+      "row_id": "l142",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l47",
+      "row_id": "l143",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l48",
+      "row_id": "l144",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l48",
+      "row_id": "l145",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l48",
+      "row_id": "l146",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l49",
+      "row_id": "l147",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l49",
+      "row_id": "l148",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l49",
+      "row_id": "l149",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l50",
+      "row_id": "l150",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l50",
+      "row_id": "l151",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l50",
+      "row_id": "l152",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l51",
+      "row_id": "l153",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l51",
+      "row_id": "l154",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l51",
+      "row_id": "l155",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l52",
+      "row_id": "l156",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l52",
+      "row_id": "l157",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l52",
+      "row_id": "l158",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l53",
+      "row_id": "l159",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l53",
+      "row_id": "l160",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l53",
+      "row_id": "l161",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l54",
+      "row_id": "l162",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l54",
+      "row_id": "l163",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l54",
+      "row_id": "l164",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l55",
+      "row_id": "l165",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l55",
+      "row_id": "l166",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l55",
+      "row_id": "l167",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l56",
+      "row_id": "l168",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l56",
+      "row_id": "l169",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l56",
+      "row_id": "l170",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l57",
+      "row_id": "l171",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l57",
+      "row_id": "l172",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l57",
+      "row_id": "l173",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l58",
+      "row_id": "l174",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l58",
+      "row_id": "l175",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l58",
+      "row_id": "l176",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l59",
+      "row_id": "l177",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l59",
+      "row_id": "l178",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l59",
+      "row_id": "l179",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l60",
+      "row_id": "l180",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l60",
+      "row_id": "l181",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l60",
+      "row_id": "l182",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l61",
+      "row_id": "l183",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l61",
+      "row_id": "l184",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l61",
+      "row_id": "l185",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l62",
+      "row_id": "l186",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l62",
+      "row_id": "l187",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l62",
+      "row_id": "l188",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l63",
+      "row_id": "l189",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l63",
+      "row_id": "l190",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l63",
+      "row_id": "l191",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l64",
+      "row_id": "l192",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l64",
+      "row_id": "l193",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l64",
+      "row_id": "l194",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l65",
+      "row_id": "l195",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l65",
+      "row_id": "l196",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l65",
+      "row_id": "l197",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l66",
+      "row_id": "l198",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l66",
+      "row_id": "l199",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l66",
+      "row_id": "l200",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l67",
+      "row_id": "l201",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l67",
+      "row_id": "l202",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l67",
+      "row_id": "l203",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l68",
+      "row_id": "l204",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l68",
+      "row_id": "l205",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l68",
+      "row_id": "l206",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l69",
+      "row_id": "l207",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l69",
+      "row_id": "l208",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l69",
+      "row_id": "l209",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l70",
+      "row_id": "l210",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l70",
+      "row_id": "l211",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l70",
+      "row_id": "l212",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l71",
+      "row_id": "l213",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l71",
+      "row_id": "l214",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l71",
+      "row_id": "l215",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l72",
+      "row_id": "l216",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l72",
+      "row_id": "l217",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l72",
+      "row_id": "l218",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l73",
+      "row_id": "l219",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l73",
+      "row_id": "l220",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "completed": false,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l73",
+      "row_id": "l221",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l74",
+      "row_id": "l222",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l74",
+      "row_id": "l223",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l74",
+      "row_id": "l224",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l75",
+      "row_id": "l225",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l75",
+      "row_id": "l226",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l75",
+      "row_id": "l227",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l76",
+      "row_id": "l228",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l76",
+      "row_id": "l229",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l76",
+      "row_id": "l230",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l77",
+      "row_id": "l231",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l77",
+      "row_id": "l232",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l77",
+      "row_id": "l233",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l78",
+      "row_id": "l234",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l78",
+      "row_id": "l235",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l78",
+      "row_id": "l236",
+      "tier": "high",
+      "network": "normal",
+      "task": "summary",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l79",
+      "row_id": "l237",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l79",
+      "row_id": "l238",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    },
+    {
+      "device_id": "l79",
+      "row_id": "l239",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "completed": true,
+      "measurement_version": "lab-v1"
+    }
+  ],
+  "target": [
+    {
+      "row_id": "f0",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f1",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f2",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f3",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f4",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f5",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f6",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f7",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f8",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f9",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f10",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f11",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f12",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f13",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f14",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f15",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f16",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f17",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f18",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f19",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f20",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f21",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f22",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f23",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f24",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f25",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f26",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f27",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f28",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f29",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f30",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f31",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f32",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f33",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f34",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f35",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f36",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f37",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f38",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f39",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f40",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f41",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f42",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f43",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f44",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f45",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f46",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f47",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f48",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f49",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f50",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f51",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f52",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f53",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f54",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f55",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f56",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f57",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f58",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f59",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f60",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f61",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f62",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f63",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f64",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f65",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f66",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f67",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f68",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f69",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f70",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f71",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f72",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f73",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f74",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f75",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f76",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f77",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f78",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f79",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f80",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f81",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f82",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f83",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f84",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f85",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f86",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f87",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f88",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f89",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f90",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f91",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f92",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f93",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f94",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f95",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f96",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f97",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f98",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f99",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f100",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f101",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f102",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f103",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f104",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f105",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f106",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f107",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f108",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f109",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f110",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f111",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f112",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f113",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f114",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f115",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f116",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f117",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f118",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f119",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f120",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f121",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f122",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f123",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f124",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f125",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f126",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f127",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f128",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f129",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f130",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f131",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f132",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f133",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f134",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f135",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f136",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f137",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f138",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f139",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f140",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f141",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f142",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f143",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f144",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f145",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f146",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f147",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f148",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f149",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f150",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f151",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f152",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f153",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f154",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f155",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f156",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f157",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f158",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f159",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f160",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f161",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f162",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f163",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f164",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f165",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f166",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f167",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f168",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f169",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f170",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f171",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f172",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f173",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f174",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f175",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f176",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f177",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f178",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f179",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f180",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f181",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f182",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f183",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f184",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f185",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f186",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f187",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f188",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f189",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f190",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f191",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f192",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f193",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f194",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f195",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f196",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f197",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f198",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f199",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f200",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f201",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f202",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f203",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f204",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f205",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f206",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f207",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f208",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f209",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f210",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f211",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f212",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f213",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f214",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f215",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f216",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f217",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f218",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f219",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f220",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f221",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f222",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f223",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f224",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f225",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f226",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f227",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f228",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f229",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f230",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f231",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f232",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f233",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f234",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f235",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f236",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f237",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f238",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "f239",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2"
+    }
+  ],
+  "validation": [
+    {
+      "row_id": "f0",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v0",
+      "completed": true,
+      "selected_probability": 0.2,
+      "split": "development"
+    },
+    {
+      "row_id": "f1",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v1",
+      "completed": true,
+      "selected_probability": null,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f2",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v2",
+      "completed": true,
+      "selected_probability": 0.2,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f3",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v3",
+      "completed": false,
+      "selected_probability": null,
+      "split": "development"
+    },
+    {
+      "row_id": "f4",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v4",
+      "completed": true,
+      "selected_probability": 0.2,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f5",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v5",
+      "completed": true,
+      "selected_probability": null,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f6",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v6",
+      "completed": true,
+      "selected_probability": 0.2,
+      "split": "development"
+    },
+    {
+      "row_id": "f7",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v7",
+      "completed": true,
+      "selected_probability": null,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f8",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v8",
+      "completed": true,
+      "selected_probability": 0.2,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f9",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v9",
+      "completed": false,
+      "selected_probability": null,
+      "split": "development"
+    },
+    {
+      "row_id": "f10",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v10",
+      "completed": false,
+      "selected_probability": 0.2,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f11",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v11",
+      "completed": true,
+      "selected_probability": null,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f12",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v12",
+      "completed": true,
+      "selected_probability": 0.2,
+      "split": "development"
+    },
+    {
+      "row_id": "f13",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v13",
+      "completed": true,
+      "selected_probability": null,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f14",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v14",
+      "completed": true,
+      "selected_probability": 0.2,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f15",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v15",
+      "completed": true,
+      "selected_probability": null,
+      "split": "development"
+    },
+    {
+      "row_id": "f16",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v16",
+      "completed": true,
+      "selected_probability": 0.2,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f17",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v17",
+      "completed": true,
+      "selected_probability": null,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f18",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v18",
+      "completed": false,
+      "selected_probability": 0.2,
+      "split": "development"
+    },
+    {
+      "row_id": "f19",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v19",
+      "completed": true,
+      "selected_probability": null,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f20",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v20",
+      "completed": true,
+      "selected_probability": 0.2,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f21",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v21",
+      "completed": true,
+      "selected_probability": null,
+      "split": "development"
+    },
+    {
+      "row_id": "f22",
+      "tier": "mid",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v22",
+      "completed": true,
+      "selected_probability": 0.2,
+      "split": "holdout"
+    },
+    {
+      "row_id": "f23",
+      "tier": "high",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 20,
+      "measurement_version": "field-v2",
+      "device_id": "v23",
+      "completed": false,
+      "selected_probability": null,
+      "split": "holdout"
+    }
+  ],
+  "seed": 48,
+  "measurement_versions": [
+    {
+      "field": "network",
+      "version": "lab-v1",
+      "meaning": "接入信号等级"
+    },
+    {
+      "field": "network",
+      "version": "field-v2",
+      "meaning": "十秒内请求丢包等级"
+    }
+  ],
+  "recruitment": {
+    "excluded_tiers": [
+      "entry"
+    ],
+    "required_network": null
+  }
+}
