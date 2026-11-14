@@ -1,0 +1,108 @@
+{
+  "columns": [
+    "tier",
+    "network",
+    "task"
+  ],
+  "target": [
+    {
+      "row_id": "n0",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 30,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "n1",
+      "tier": "entry",
+      "network": "normal",
+      "task": "summary",
+      "population_weight": 30,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "n2",
+      "tier": "entry",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 10,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "n3",
+      "tier": "entry",
+      "network": "weak",
+      "task": "booking",
+      "population_weight": 10,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "n4",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "population_weight": 40,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "n5",
+      "tier": "high",
+      "network": "normal",
+      "task": "booking",
+      "population_weight": 40,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "n6",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "population_weight": 15,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "n7",
+      "tier": "mid",
+      "network": "weak",
+      "task": "summary",
+      "population_weight": 15,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "n8",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "population_weight": 5,
+      "measurement_version": "field-v2"
+    },
+    {
+      "row_id": "n9",
+      "tier": "mid",
+      "network": "normal",
+      "task": "booking",
+      "population_weight": 5,
+      "measurement_version": "field-v2"
+    }
+  ],
+  "measurement_versions": [
+    {
+      "field": "network",
+      "version": "lab-v1",
+      "meaning": "接入信号等级"
+    },
+    {
+      "field": "network",
+      "version": "field-v2",
+      "meaning": "十秒内请求丢包等级"
+    }
+  ],
+  "recruitment": {
+    "excluded_tiers": [
+      "entry"
+    ],
+    "required_network": null
+  },
+  "seed": 48
+}
